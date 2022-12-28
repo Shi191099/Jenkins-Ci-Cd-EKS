@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ak-angular-app
-        image: sraves/myspringbootapp:latest
+        image: sraves/mywebapp:latest
         ports:
         - containerPort: 8085
         
